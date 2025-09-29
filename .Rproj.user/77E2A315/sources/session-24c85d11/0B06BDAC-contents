@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tahsin Khan"
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: authoring/index.qmd
+        text: Authoring
+      - href: post/
+        text: Posts
+      - href: about.qmd
+        text: About
+  
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    
+
+
+
+
+

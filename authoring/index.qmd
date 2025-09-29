@@ -1,0 +1,5 @@
+---
+title: "Authoring Notes"
+---
+
+Here I collect notes about writing, tools, and workflow

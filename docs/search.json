@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "authoring/index.html",
+    "href": "authoring/index.html",
+    "title": "Authoring Notes",
+    "section": "",
+    "text": "Here I collect notes about writing, tools, and workflow"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! This my Quarto site rebuilt from scratch\n\nSee my authoring notes\nRead my posts"
+  },
+  {
+    "objectID": "post/hello-world.html",
+    "href": "post/hello-world.html",
+    "title": "Hellow, World",
+    "section": "",
+    "text": "First post in the new Quarto site."
+  },
+  {
+    "objectID": "post/index.html",
+    "href": "post/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Hellow, World\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is the about page"
+  }
+]
