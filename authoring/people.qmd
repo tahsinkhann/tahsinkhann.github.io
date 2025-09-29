@@ -1,5 +1,0 @@
----
-title: "people"
-format: html
----
-
