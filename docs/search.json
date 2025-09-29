@@ -14,6 +14,13 @@
     "text": "Welcome! This my Quarto site rebuilt from scratch\n\nSee my authoring notes\nRead my posts"
   },
   {
+    "objectID": "post/index.html",
+    "href": "post/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "My Second Post\n\n\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nHellow, World\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "post/hello-world.html",
     "href": "post/hello-world.html",
     "title": "Hellow, World",
@@ -21,11 +28,11 @@
     "text": "First post in the new Quarto site."
   },
   {
-    "objectID": "post/index.html",
-    "href": "post/index.html",
-    "title": "Posts",
+    "objectID": "post/my-second-post.html",
+    "href": "post/my-second-post.html",
+    "title": "My Second Post",
     "section": "",
-    "text": "Hellow, World\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Content goes here"
   },
   {
     "objectID": "about.html",
