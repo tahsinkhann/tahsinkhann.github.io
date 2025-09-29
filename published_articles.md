@@ -1,0 +1,13 @@
+---
+title: News
+layout: page
+permalink: /news/
+format:
+  gfm: default
+---
+
+
+# News
+
+Highlights and updates. For dated posts, create `.qmd` in
+`authoring/posts/` (see below).

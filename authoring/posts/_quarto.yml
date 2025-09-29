@@ -1,0 +1,14 @@
+project: 
+  type: default
+  output-dir: ../../_posts
+
+format: 
+  gfm: 
+    variant: +yaml_metadata_block
+    raw-html: true
+
+
+
+
+
+
