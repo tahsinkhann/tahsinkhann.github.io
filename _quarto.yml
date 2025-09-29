@@ -9,19 +9,25 @@ website:
       - href: index.qmd
         text: Home
       - href: authoring/index.qmd
-        text: Authoring
+        text: Projects
       - href: post/
         text: Posts
       - href: about.qmd
         text: About
-  
+  bread-crumbs: false
+  back-to-top-navigation: true
+
+
+
 format: 
   html:
     theme: cosmo
     toc: true
+    link-external-newwindow: true
     
 
+bibliography: 
+  - references.bib
 
 
-
-
+csl: styles/nature.csl

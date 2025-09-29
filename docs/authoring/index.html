@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Authoring Notes – Tahsin Khan</title>
+<title>Research Projects – Tahsin Khan</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -97,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../authoring/index.html" aria-current="page"> 
-<span class="menu-text">Authoring</span></a>
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../post/"> 
@@ -118,15 +138,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#references" id="toc-references" class="nav-link active" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Authoring Notes</h1>
+<h1 class="title">Research Projects</h1>
 </div>
 
 
@@ -143,11 +169,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Here I collect notes about writing, tools, and workflow</p>
+<p>I have started my research career since 2017 when I was just a 2nd year student! My first inspiration came from looking at the glass of a window, two word written <code>Plos ONE</code>! This window was basically in my flatmate- a departmental senior- who was an excellent student cum researcher! He was also the president of SUST Science Arena! A total science guy with excellent track records of CSE bacground (SUST had 2nd Major system at that time). This guy also taught me to think for five years ahead and how one can achieve just self-assessing the progress made in each year. Anyway long story short, I first published my research article in 2019 and later in 2020 and so on! I aimed in publishing at least one original first/co-author research article each year.</p>
+<p>Here I will discuss my latest research articles and projects involved!</p>
+<ol type="1">
+<li>“Emergence of the Novel Sixth <em>Candida auris</em> in Bangladesh<span class="citation" data-cites="khan2024-cauris"><sup><a href="#ref-khan2024-cauris" role="doc-biblioref">1</a></sup></span>.<br>
+Here I investigated the archived <em>Candida auris</em> isolates collected from ICU and NICU settings. <em>Candida auris</em> is among the high priority list pathogens that declared by the US CDC. [to be continues]</li>
+</ol>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-khan2024-cauris" class="csl-entry" role="listitem">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Khan, T. <em>et al.</em> <a href="https://doi.org/10.1128/spectrum.03540-23">Emergence of the novel sixth <span class="nocase">Candida auris</span> clade VI in bangladesh</a>. <em>Microbiology Spectrum</em> <strong>12</strong>, e03540–23 (2024).</div>
+</div>
+</div>
 
 
+</section>
 
-</main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -235,6 +274,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
