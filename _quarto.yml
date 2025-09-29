@@ -14,10 +14,21 @@ website:
         text: Posts
       - href: about.qmd
         text: About
+    
+    right:
+      - icon: bluesky
+        href: https://bsky.app/profile/tahsinkhann.bsky.social
+        target: _blank
+        rel: noopener
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tahsinkhann
+        target: _blank
+        rel: noopener
   bread-crumbs: false
   back-to-top-navigation: true
 
-
+    
+        
 
 format: 
   html:
