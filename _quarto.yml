@@ -12,7 +12,6 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    
     content: "**Note** - if you wish to collaborate in microbial genomics research, please get in touch!"
     type: primary
     position: below-navbar
