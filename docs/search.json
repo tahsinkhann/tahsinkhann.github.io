@@ -4,28 +4,28 @@
     "href": "authoring/index.html",
     "title": "Research Projects",
     "section": "",
-    "text": "I have started my research career since 2017 when I was just a 2nd year student! My first inspiration came from looking at the glass of a window, two word written Plos ONE! This window was basically in my flatmate- a departmental senior- who was an excellent student cum researcher! He was also the president of SUST Science Arena! A total science guy with excellent track records of CSE bacground (SUST had 2nd Major system at that time). This guy also taught me to think for five years ahead and how one can achieve just self-assessing the progress made in each year. Anyway long story short, I first published my research article in 2019 and later in 2020 and so on! I aimed in publishing at least one original first/co-author research article each year.\nHere I will discuss my latest research articles and projects involved!\n\n“Emergence of the Novel Sixth Candida auris in Bangladesh1.\nHere I investigated the archived Candida auris isolates collected from ICU and NICU settings. Candida auris is among the high priority list pathogens that declared by the US CDC. [to be continues]\n\n\n\nReferences\n\n\n1. Khan, T. et al. Emergence of the novel sixth Candida auris clade VI in bangladesh. Microbiology Spectrum 12, e03540–23 (2024).\n\n\n\n\n\n\n Back to top"
+    "text": "Note🧬 Interested in Microbial Genomics?\n\n\n\nWe’re always open to exciting collaborations in microbial genomics research.\nIf you’d like to collaborate, get in touch — let’s make science happen together!\nI have started my research career since 2017 when I was just a 2nd year student! My first inspiration came from looking at the glass of a window, two word written Plos ONE! This window was basically in my flatmate- a departmental senior- who was an excellent student cum researcher! He was also the president of SUST Science Arena! A total science guy with excellent track records of CSE bacground (SUST had 2nd Major system at that time). This guy also taught me to think for five years ahead and how one can achieve just self-assessing the progress made in each year. Anyway long story short, I first published my research article in 2019 and later in 2020 and so on! I aimed in publishing at least one original first/co-author research article each year.\nHere I will discuss my latest research articles and projects I am involved!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my website! I hope you will get a glimpse of what I have achieved so far, my ongoing activities and vision for future (oviously, if I remain am alive and healthy!).\nThis is my first page which I am building slowly. Please stay with me!\nThanks\n\nSee my projects\nRead my posts\n\n\n\n\n Back to top"
+    "text": "Welcome to my website! I hope you will get a glimpse of what I have achieved so far, my ongoing activities and vision for future (oviously, if I remain alive and healthy!).\nThis is my first page which I am building slowly. Please stay with me!\nThanks\n\nSee my projects\nRead my posts\n\n\n\n\n Back to top"
   },
   {
     "objectID": "post/index.html",
     "href": "post/index.html",
     "title": "Posts",
     "section": "",
-    "text": "My Second Post\n\n\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nHellow, World\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Welcome to the blog. Use the filters to explore by catergory or tag. \n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nMy Second Post\n\n\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\n\nHello, World\n\n\n\nQuarto\n\nNotes\n\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "post/hello-world.html",
     "href": "post/hello-world.html",
-    "title": "Hellow, World",
+    "title": "Hello, World",
     "section": "",
-    "text": "First post in the new Quarto site. [to be continues]\n\n\n\n Back to top"
+    "text": "First post in the rebuilt site. [to be continues]\n\n\n\n Back to top"
   },
   {
     "objectID": "post/my-second-post.html",
@@ -40,5 +40,19 @@
     "title": "About",
     "section": "",
     "text": "This is the about page [to be continues]\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "authoring/index.html#research-articles",
+    "href": "authoring/index.html#research-articles",
+    "title": "Research Projects",
+    "section": "Research Articles",
+    "text": "Research Articles\n\nEmergence of the novel sixth Candida auris clade VI in Bangladesh2.\n\nHere we investigated the archived Candida auris isolates collected from ICU and NICU settings from two tertiary hospitals in Dhaka, Bangaldesh. Candida auris is an emerging multidrug-resistant pathogen, imposes a serious threat to global public health owing to its high virulence and transmissibility in hospital settings. Since its emergence in 2009, this multidrug-resistant fungus has become one of the five urgent antimicrobial threats by 2019. To date, whole-genome sequencing (WGS) has identified five unique clades of C. auris, with some strains displaying resistance to all primary antifungal drug classes. In this study, we presented the first WGS analysis of C. auris from Bangladesh, describing its origins, transmission dynamics, and antifungal susceptibility testing (AFST) profile. We discovered the emergence of a novel clade; which we termed as Clade VI. Though Clade VI is closer to Clade IV (South American clade), yet has more than 40,000 snp distances,underscoring its divergence from ancestral clades. Interestingly, this clade was also detected in Singapore and I suspect it will be detected in other countries due to global economic growth.\nCurrently we are involved in follow-up studies of C. auris in collaboration with the US CDC.\n\n\nReferences\n\n\n1. Singh, N. et al. Aeromonas: Genomic insights into an environmental pathogen and reservoir of antimicrobial resistance. bioRxiv 2025–05 (2025).\n\n\n2. Khan, T. et al. Emergence of the novel sixth Candida auris clade VI in bangladesh. Microbiology Spectrum 12, e03540–23 (2024)."
+  },
+  {
+    "objectID": "authoring/index.html#ongoing-projects",
+    "href": "authoring/index.html#ongoing-projects",
+    "title": "Research Projects",
+    "section": "Ongoing Projects",
+    "text": "Ongoing Projects\n\nEvolution of clinical Aeromonas spp. in Bangladesh\n\nAeromonas spp. (within the Aeromonadaceae family) are Gram-negative facultatively anaerobic bacteria with oxidase and catalase activity. Aeromonas spp. are abundant in aquatic habitats, with over 30 species identified. At least 19 of these species are linked to human infections and are capable of causing significant diarrheal outbreaks. Aeromonas infections are common in children under 5 years old, especially in low- and middle-income countries (LMICs), where there is inadequate access to water and sanitation, resulting in high environmental exposure1. In our study, we are sequencing isolates dating back to 1975, isolates archived at icddr,b biorepository unit. [stay tuned for more information]\n\nGlobal genomic survey of Group B Streptococcus: JUNO2- icddr,b\n\n[_to be continued]"
   }
 ]

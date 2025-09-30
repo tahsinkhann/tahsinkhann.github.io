@@ -1,0 +1,14 @@
+website:
+  sidebar:
+    - title: Conda Installation
+      style: docked
+      collapse-level: 2
+      contents: 
+        - help/workflow_management.qmd
+        - section: "1. Conda"
+          contents: 
+            - help/conda_tutorial/conda_installation.qmd
+        - section: "2. Data download"
+          contents:
+            - help/conda_tutorial/data_download.qmd
+ 

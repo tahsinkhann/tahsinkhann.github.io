@@ -1,0 +1,55 @@
+---
+title: "Working with sra-tools"
+format: html
+---
+
+If you have completed [conda installation tutorial](conda_installation.qmd), our first step would be to downalod data from public repositories. for this we have to install `sra-tools`
+
+``` bash
+conda activate wgs
+```
+
+``` bash 
+conda install bioconda::sra-tools -y
+```
+
+Let's download the sequence files for _Aeromonas caviae_ `SRR31323044` from NCBI SRA database.
+
+``` bash
+prefetch --help 
+# if it works move to next command
+```
+
+``` bash
+prefetch SRR31323044
+```
+If the file is downloaded successfully, our step would to split files into two files, `R1/forward read` and `R2/reverence read`
+
+``` bash
+fasterq-dump SRR31323044/SRR31323044.sra --split-files --threads 8 
+```
+You will two files have been created as
+
+- `SRR31323044_1.fastq`
+- `SRR31323044_2.fastq`
+
+Your step would be to run:
+```
+- FastQC        #quality check the raw reads 
+- Trimmomatic   #trimming the raw reads
+- Spades        #contigs generation from trimmed reads
+- Quast         #quality check for the generated contigs
+```
+You can do it by yourself, I believe you gained enough cofidence to do all the analysis by yourself. Best wishes!!!
+
+
+
+
+
+
+
+
+
+
+
+
